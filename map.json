@@ -191,7 +191,7 @@
         {
          "columns":20,
          "firstgid":65,
-         "image":"..\/..\/Downloads\/sheet.png",
+         "image":"outside.png",
          "imageheight":288,
          "imagewidth":640,
          "margin":0,
@@ -395,7 +395,7 @@
         {
          "columns":40,
          "firstgid":245,
-         "image":"..\/..\/Downloads\/sheet.png",
+         "image":"outside.png",
          "imageheight":288,
          "imagewidth":640,
          "margin":0,
