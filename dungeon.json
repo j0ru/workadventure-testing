@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?j04u&parent=play.world.telekneipe.tech"
+                 "value":"https:\/\/player.twitch.tv\/?channel=j04u&parent=play.world.telekneipe.tech"
                 }],
          "type":"tilelayer",
          "visible":true,
